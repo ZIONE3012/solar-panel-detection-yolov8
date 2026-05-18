@@ -1,0 +1,17 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+nc: 6
+roboflow:
+  license: CC BY 4.0
+  project: solar-panel-exbow
+  url: https://universe.roboflow.com/1-zcs37/solar-panel-exbow/dataset/1
+  version: 1
+  workspace: 1-zcs37
+test: ../test/images
+train: ../train/images
+val: ../valid/images
